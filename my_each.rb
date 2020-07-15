@@ -10,6 +10,6 @@
 
 def my_each(collection)
   collection.map do |i|
-  puts i
+  i
   end
 end
