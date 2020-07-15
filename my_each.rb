@@ -8,6 +8,7 @@
 # end
 
 
-def my_each(collection) do |i|
+def my_each(collection)
+  collection.map do |i|
   puts i
 end
