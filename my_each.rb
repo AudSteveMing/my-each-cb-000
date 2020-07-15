@@ -15,5 +15,4 @@ def my_each(collection)
     i++
   end
   collection
-
 end
