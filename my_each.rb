@@ -7,7 +7,7 @@ def my_each(collection) # put argument(s) here
   collection
 end
 
-# 
+#
 # def my_each(collection)
 #   collection.map do |i|
 #   i
